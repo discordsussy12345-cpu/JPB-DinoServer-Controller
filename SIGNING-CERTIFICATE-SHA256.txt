@@ -1,0 +1,2 @@
+Public certificate SHA-256: 30a5b8bfad7c9ad26edbd43652da9e9bff91594d556993d6de9710ab63adc713
+Application ID: org.jpb.dinoserver.controller
