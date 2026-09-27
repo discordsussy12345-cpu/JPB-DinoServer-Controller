@@ -24,3 +24,7 @@ Android 7.0+ (API 24); ARMv7, ARM64, x86 and x86_64. The game APK and Android ca
 Save resets, XP stalls and battle timers remain under investigation. This release does not claim to fix those issues.
 
 Download the APK under release **Assets**, not GitHub's generated Source code archive. Signing keys and player data are never included in this repository.
+
+## Moving a guest save from Termux
+
+Follow the [detailed Termux export and controller import guide](TERMUX-SAVE-IMPORT.md). It covers storage permissions, locating saves, exporting to Downloads, LDPlayer transfers, the play-once checker, and verification. Keep the original installation and backups.

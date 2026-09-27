@@ -53,3 +53,7 @@ References: [Microsoft firewall guidance](https://support.microsoft.com/en-us/wi
 The new controller checks this repository automatically (at most once every six hours when opened), or through **Controller updates**. Download when offered, then close JPB and stop the server before verifying and installing. Android asks you to confirm installation and may ask you to allow installs from this controller. Updates require a matching app ID, newer version, valid checksum and the same signing key. They preserve this new app's storage during an in-place installation. Do not uninstall or clear storage between updates.
 
 Automatic checks can be disabled in the Updates screen. The older controller does not receive this new app through its updater.
+
+## Moving a guest save from Termux
+
+Follow the [detailed Termux export and controller import guide](TERMUX-SAVE-IMPORT.md). It covers storage permissions, locating saves, exporting to Downloads, LDPlayer transfers, the play-once checker, and verification. Keep the original installation and backups.
